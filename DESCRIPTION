@@ -1,6 +1,6 @@
 Package: square
 Title: An R package that Squares a Number
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Harrison", "Mar", , "harrisonmar95@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
